@@ -1,6 +1,8 @@
 # NHÓM 7 - ĐỀ TÀI: HỆ THỐNG THUÊ XE
 ## Team development structure ##						
-<img width="764" height="143" alt="image" src="https://github.com/user-attachments/assets/1ecd8b1e-564f-44db-80bb-7608e9e97093" />
+TEAM DEVELOPMENT STRUCTURE						
+<img width="1037" height="181" alt="image" src="https://github.com/user-attachments/assets/2b3ca52f-1243-4160-a3b1-e737466eb3b1" />
+
 
 ## User requirements ## 
 <img width="667" height="454" alt="image" src="https://github.com/user-attachments/assets/dba5c7f8-a40d-4f06-8c31-31a9b5228a97" />
