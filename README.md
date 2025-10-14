@@ -1,6 +1,6 @@
 # NHÓM 7 - ĐỀ TÀI: HỆ THỐNG THUÊ XE
 ## Team development structure ##						
-TEAM DEVELOPMENT STRUCTURE						
+						
 <img width="1037" height="181" alt="image" src="https://github.com/user-attachments/assets/2b3ca52f-1243-4160-a3b1-e737466eb3b1" />
 
 
